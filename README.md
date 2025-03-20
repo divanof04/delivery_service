@@ -27,7 +27,7 @@ Delivery Service — это веб-приложение на основе Django
 ### Шаги
 1. **Клонируй репозиторий:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/divanof04/delivery_service.git
    cd delivery_service
 2. **Скопируй файл .env и заполните его своими данными:**
    ```bash
